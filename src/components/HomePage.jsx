@@ -23,7 +23,7 @@ const HomePage = () => {
   };
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container justify-center mx-auto p-4">
       <CategoryFilter category={category} onCategoryChange={handleCategoryChange} />
       {status === 'loading' && <div>Loading...</div>}
       {status === 'failed' && <div>{error}</div>}
