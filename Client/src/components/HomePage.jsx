@@ -29,7 +29,7 @@ const HomePage = () => {
       {status === 'failed' && <div>{error}</div>}
       {status === 'succeeded' && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {articles.map((article) => (
+          {articles?.map((article) => (
             <ArticleCard key={article.url} article={article} />
           ))}
         </div>
