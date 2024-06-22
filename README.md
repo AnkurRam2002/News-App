@@ -27,5 +27,5 @@ This project is a fullstack responsive news website built with React, Vite, Tail
 
 <h4>Deployment</h4>
 
-- Render:
-- Netlify:
+- Render:Deployment of backend for API fetching.
+- Netlify: Deployment of frontend for Demo.
