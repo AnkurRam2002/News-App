@@ -1,4 +1,4 @@
-<h1>News App</h1>
+<h1 align='center'>News App</h1>
 
 This project is a fullstack news website built with React, Vite, and Redux on the frontend, and Node.js, Express.js, CORS, and Axios on the backend. It allows users to view the latest news articles fetched from an external news API.
 
