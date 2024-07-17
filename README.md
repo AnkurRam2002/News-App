@@ -1,6 +1,6 @@
-<h1 align='center'>News App</h1>
+<h1 align='center'>News World</h1>
 
-This project is a fullstack responsive news website built with React, Vite, Tailwind and Redux on the frontend, and Node.js, Express.js, CORS, and Axios on the backend. It allows users to view the latest news articles fetched from an external news API.
+News World is a fullstack responsive news website built with React, Vite, Tailwind and Redux on the frontend, and Node.js, Express.js, CORS, and Axios on the backend. It allows users to view the latest news articles fetched from an external news API.
 
 <h3>Features</h3>
 
